@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "662340671887",
+    "project_id": "tatosui",
+    "storage_bucket": "tatosui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662340671887:android:9af8878edce582cd5fd3fa",
+        "android_client_info": {
+          "package_name": "com.example.newecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662340671887-gd4hmkg8au97dgjj44oidvp5bta1r8g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newecommerce",
+            "certificate_hash": "87096feb5334abe32a1244754d809de70d598aa7"
+          }
+        },
+        {
+          "client_id": "662340671887-rpvg168kuvjdja8bqdbsp31jo94ls9g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA055jKTqbDGVOUd6jj52c_EKaOv3vds1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662340671887-rpvg168kuvjdja8bqdbsp31jo94ls9g9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
